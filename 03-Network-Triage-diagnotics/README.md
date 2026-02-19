@@ -6,9 +6,9 @@ This project demonstrates advanced proficiency in Network Layer Triage on a live
 ---
 
 ### 🛠️ Diagnostic Toolkit
-*   Layer 3 (Network): 'ip addr', ping (ICMP reachability)
-*   Layer 4 (Transport): 'netstat -tulpn', ss (Port state monitoring)
-*   Layer 7 (Application): 'dig', 'nslookup' (External domain resolution)
+*   Layer 1 (Network): 'ip addr', ping (ICMP reachability)
+*   Layer 2 (Transport): 'netstat -tulpn', ss (Port state monitoring)
+*   Layer 3 (Application): 'dig', 'nslookup' (External domain resolution)
 
 ---
 
